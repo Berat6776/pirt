@@ -3,14 +3,19 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-        "start": "node server/server.js",
-        "client": "npm run start --prefix client",
-        "install": "npm install --prefix client",
-        "dev": "concurrently \"npm run server\" \"npm run client\"",
-        "server": "node server/server.js"
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
     },
     "dependencies": {
-        "concurrently": "^7.0.0",
-        "react-scripts": "^5.0.1"
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-scripts": "5.0.0"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": "16.x"
     }
-}
+  }
+  
