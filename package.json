@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
     "name": "my-app",
     "version": "1.0.0",
     "private": true,
@@ -20,7 +20,7 @@
     }
   }
   
-=======
+
   "name": "pirt",
   "version": "1.0.0",
   "main": "index.js",
@@ -30,6 +30,6 @@
   "keywords": [],
   "author": "Berat67za",
   "license": "ISC",
-  "description": ""
+  "description": "Merhabalar"
 }
->>>>>>> a669433c7ca03c4a9d2a91ff6cbf2de01ed92b0e
+
