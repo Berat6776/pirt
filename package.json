@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "my-app",
     "version": "1.0.0",
     "private": true,
@@ -19,3 +20,16 @@
     }
   }
   
+=======
+  "name": "pirt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Berat67za",
+  "license": "ISC",
+  "description": ""
+}
+>>>>>>> a669433c7ca03c4a9d2a91ff6cbf2de01ed92b0e
