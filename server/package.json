@@ -1,15 +1,11 @@
 {
   "name": "pirt",
   "version": "1.0.0",
-  "description": "Pirtasis",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "author": "Berat67za",
-  "license": "MIT"
+    // Eklediğiniz diğer bağımlılıklar burada olacak
+  }
 }
